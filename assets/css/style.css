@@ -1,0 +1,12 @@
+.btn {
+    margin: .5%;
+}
+
+#buttonsContainer{
+    float: left;
+    width: 50%;
+}
+
+#searchContainer{
+    width: 50%;
+}
